@@ -6,4 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-也没想好
+You & Me
+![image01]({{ '/assets/IMG_2048edit.png' | relative_url }})
+
