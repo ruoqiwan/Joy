@@ -1,5 +1,5 @@
 ---
-title: About
+title: 简介
 author: R
 date: 2023-04-29
 category: Jekyll
