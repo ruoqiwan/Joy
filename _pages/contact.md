@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-你好加我了
+这个想好了 -> 你好加我了
