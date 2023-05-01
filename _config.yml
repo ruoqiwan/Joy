@@ -77,6 +77,8 @@ destination:      ./_site
 incremental:      false
 regenerate:       true
 
+timezone: Asia/Shanghai
+
 plugins:
   - jekyll-feed
   - jekyll-readme-index
