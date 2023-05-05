@@ -5,9 +5,7 @@ date: 2023-05-01
 category: Jekyll
 layout: post
 ---
-pre::-webkit-scrollbar-button {
-    display: none;
-}
+
 <!--This post was written on {{ site.time | date: '%B %d, %Y at %I:%M %p' }}.
 
 This post was written on {{ "2023-05-01 11:01:00 +0800" | date: '%A, %B %d, %Y at %I:%M %p' }}
