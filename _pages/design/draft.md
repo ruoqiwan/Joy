@@ -1,5 +1,5 @@
 ---
-title: 笔记
+title: 随记
 author: R
 date: 2023-05-01
 category: Jekyll
