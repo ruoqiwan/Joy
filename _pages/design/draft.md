@@ -5,17 +5,7 @@ date: 2024-01-27
 category: Jekyll
 layout: post
 ---
-{% capture audio %}
-<figure>
-  <figcaption>Background Music</figcaption>
-  <audio controls>
-    <source src="{{ site.baseurl }}/assets/audio/music.mp3" type="audio/mp3">
-    Your browser does not support the audio element.
-  </audio>
-</figure>
-{% endcapture %}
 
-{{ audio | strip_newlines }}
 
 <!--This post was written on {{ site.time | date: '%B %d, %Y at %I:%M %p' }}.
 
