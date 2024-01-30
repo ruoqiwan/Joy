@@ -5,7 +5,10 @@ date: 2024-01-27
 category: Jekyll
 layout: post
 ---
-
+<audio controls>
+  <source src="/assets/audio/music.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 <!--This post was written on {{ site.time | date: '%B %d, %Y at %I:%M %p' }}.
 
 This post was written on {{ "2023-05-01 11:01:00 +0800" | date: '%A, %B %d, %Y at %I:%M %p' }}
