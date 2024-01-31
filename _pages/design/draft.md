@@ -26,6 +26,7 @@ This post was written on {{ "2023-05-01 11:01:00 +0800" | date: '%A, %B %d, %Y a
 <br>
 
 <p>
+<hr>
 <br>
 我从未爱过你<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;怎么会想念你<br>
