@@ -22,14 +22,14 @@ This post was written on {{ "2023-05-01 11:01:00 +0800" | date: '%A, %B %d, %Y a
 又熬过了一天 不 今天的时间还算过的快<br>
 冬天快结束了吧 下班时的天没那么暗了
 
-Look, this doesn't mean
-that we're...
+Look, this doesn't mean<br>
+that we're...<br>
 
-No. No, I know.
+No. No, I know.<br>
 
-No, this is just a...
-Time-out from the time-out.
-- CASTLE （SEASON 8, EPISODE 7）
+No, this is just a...<br>
+Time-out from the time-out.<br>
+- Castle （season 8, episode 7）
 <br>
 </p>
 
