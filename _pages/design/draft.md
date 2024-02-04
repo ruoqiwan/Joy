@@ -21,8 +21,8 @@ This post was written on {{ "2023-05-01 11:01:00 +0800" | date: '%A, %B %d, %Y a
 放晴了 阳光照在身上 暖暖的<br>
 天 也知道了吗 想要替我一扫阴霾 虽然心里明白 这只是一时<br>
 昨天的感觉 还意犹未尽 像是干涸的池塘终于迎来了泉水 那感觉很舒服<br>
-如果 能听见你的喘息 那该多好<br>
-May the dream come true.<br>
+要是 能听见你的喘息 那又该多好<br><br>
+May dreams come true<br>
 <br>
 
 <br>
