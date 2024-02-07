@@ -1,5 +1,5 @@
 ---
-title: 龙印装备 - 冰龙
+title: 龙印装备 - 冰龙(看我)
 author: R
 date: 1996-10-22
 category: Jekyll
