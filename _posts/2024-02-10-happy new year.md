@@ -8,5 +8,5 @@ layout: post
 
 *更新ing*<br>
 
-![happy new year]({{ '/assets/new year 2024.png' | relative_url }})-->
+![happy new year]({{ '/assets/new year 2024.png' | relative_url }})
 
