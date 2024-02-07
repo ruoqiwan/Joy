@@ -1,7 +1,7 @@
 ---
 title: 龙印装备 - 冰龙
 author: R
-date: 1996-10-21
+date: 1996-10-22
 category: Jekyll
 layout: post
 ---
