@@ -1,7 +1,7 @@
 ---
 title: 伙伴 - 战纹
 author: R
-date: 1996-10-21
+date: 1996-10-20
 category: Jekyll
 layout: post
 ---
