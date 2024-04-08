@@ -1,7 +1,7 @@
 ---
 title: 龙印装备 - 冰龙(过期)
 author: R
-date: 1996-10-22
+date: 1996-10-23
 category: Jekyll
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: 远古宝物 - 迷雾(过期)
 author: R
-date: 1996-10-23
+date: 1996-10-24
 category: Jekyll
 layout: post
 ---
