@@ -5,7 +5,7 @@ date: 1996-10-20
 category: Jekyll
 layout: post
 ---
-
+*Updated on 04/07/2024*<br>
 **蓝审判骑士** 4猫2猫头鹰 或 6猫头鹰
 <br><br>
 头: 猫/猫头鹰 主属性生命%，副属性抵抗%（优先），速度
