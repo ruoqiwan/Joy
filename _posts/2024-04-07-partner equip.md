@@ -5,7 +5,7 @@ date: 1996-10-20
 category: Jekyll
 layout: post
 ---
-*Updated on 04/07/2024*<br>
+*Updated on 04/15/2024*<br>
 **蓝狼人** 4猹2狼
 <br><br>
 头: 猹/狼 主属性爆伤%，副属性爆击%，攻击%
